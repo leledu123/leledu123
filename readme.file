@@ -1,0 +1,7 @@
+fefeecho "# leledu123" >> LISEZMOI.md 
+git init 
+git add LISEZMOI.md 
+git commit -m "first commit" 
+git branch -M "main" 
+git remote add origin https://github.com/leledu123/leledu123.git
+ git push -u origine "principal"
